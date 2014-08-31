@@ -13,6 +13,9 @@ Databricks is a company founded by members from AMPLab to commercialize Apache S
 [Using IntelliJ for Development](http://bdgenomics.org/blog/2014/05/15/up-and-running-with-big-data-genomics/)
 Great screencast on how to develop in Scala with IntelliJ for Apache Spark and its Open Source Products
 
+[Cloudera's Spark Tutorial](http://cloudera.com/content/cloudera/en/training/courses/spark-training.html)
+A detailed webcast for Spark provided by Cloudera
+
 ## Data Science Courses
 
 [GA Data Science Course](https://github.com/arahuja/GADS7)
