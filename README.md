@@ -15,6 +15,9 @@ Great screencast on how to develop in Scala with IntelliJ for Apache Spark and i
 
 ## Data Science Courses
 
+[GA Data Science Course](https://github.com/arahuja/GADS7)
+A great collection of readings and lectures from general assembly
+
 [Data Science Course 2012](http://datascienc.es/schedule/)
 This Data Science course is taught by Jeff Hammerbacher, Founder and CEO of Cloudera. Try 'datascience' as password for the online lectures.
 
