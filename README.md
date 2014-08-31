@@ -43,6 +43,10 @@ A detailed introduction to Scala for Java Developers
 [First steps to Scala](http://www.artima.com/scalazine/articles/steps.html)
 A easy and fun first steps in Scala introduction.
 
+## Python
+
+[Google Edu](https://developers.google.com/edu/python/)
+A course for experienced developers, teaching only what is necessary for python
 
 ## Database 
 
