@@ -71,6 +71,8 @@ Great story about the struggle of a developer to design high-performance JavaScr
 
 ## Data Visualization
 
+[mbostock's D3 Workshop](http://bost.ocks.org/mike/d3/workshop/#0) 150 great slides from the inventor of D3
+
 [D3 Tutorial](http://alignedleft.com/tutorials/d3)
 Great tutorial by Scott Murray about D3. Interactive, simpler than mbostocks tutorial and beautiful made.
 
