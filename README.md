@@ -103,3 +103,15 @@ Great and lovely introduction to Python, Javascript, Ruby and so on. A must see!
 [MongoUniversity](https://university.mongodb.com/)
 Tutorials about using MongoDB with certificate for Java, Node Developers and co.
 
+[Iversity](https://iversity.org/)
+Mostly german online courses, however all for free
+
+[Canvas Network](https://www.canvas.net/)
+Online courses offered by individuals
+
+[Khan academy](https://www.khanacademy.org/)
+Great online courses by Khan. Great teacher, new technology and easy to understand.
+A variety of topics are covered
+
+
+
