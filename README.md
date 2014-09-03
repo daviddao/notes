@@ -18,6 +18,9 @@ A detailed webcast for Spark provided by Cloudera
 
 ## Data Science Courses
 
+[Harvard Data Science Course](http://cs109.github.io/2014/)
+CS109 , Harvard Data Science Course is taught well, slides are great and teacher are motivating
+
 [GA Data Science Course](https://github.com/arahuja/GADS7)
 A great collection of readings and lectures from general assembly
 
@@ -31,6 +34,8 @@ Exercise and Lab Course for the 2014 Data Science Course by Berkeley
 Great tutorial/book about mining massive data focused on graph algorithms.
 A online course is also provided [here](https://www.coursera.org/course/mmds)
 
+[Nate Silver's Blog](http://fivethirtyeight.com/)
+Nate Silver is arguably the most famous data scientist in the world. In his blog, he will write a lot about stuff he analyzed with data science methods
 
 ## Scala
 
