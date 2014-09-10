@@ -84,6 +84,9 @@ Great tutorial by Scott Murray about D3. Interactive, simpler than mbostocks tut
 [Tools for Data Visualization](http://selection.datavisualization.ch/)
 Collection of DataVis Tools for the Web
 
+[CS171](http://www.cs171.org/#!index.md)
+Great Course of Harvard describing the principles of data visualization using D3.
+
 ## Online Learning 
 
 [Coursera](http://coursera.org/)
